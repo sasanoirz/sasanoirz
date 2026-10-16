@@ -1,7 +1,7 @@
 # Sara Delmiro  (•◡•) 
 
-😊 Me chamo Sara Delmiro, tenho 20 anos e sou natural da Paraíba. Atualmente estou no 2° período de Estatística e Ciência de Dados, na Universidade Estadual da Paraíba (UEPB). 
-Meu interesse pela tecnologia surgiu ao entrar em contato com jogos indie, como Stardew Valley. Mas o despertar pela área de Dados surgiu ao ingressar na universidade. 
+😊 Me chamo Sara Delmiro. Atualmente estou no 2° período de Estatística e Ciência de Dados, na Universidade Estadual da Paraíba (UEPB). 
+
 
    <p align="left">
     </a>
